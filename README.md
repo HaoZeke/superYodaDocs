@@ -1,4 +1,4 @@
-# \*Yoda Documentation [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.me/HaoZeke/)
+# \*Yoda Documentation [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://www.paypal.me/HaoZeke/) [![Build Status](https://semaphoreci.com/api/v1/haozeke/superyodadocs/branches/master/badge.svg)](https://semaphoreci.com/haozeke/superyodadocs)
 
 ## Consolidated Documentation
 
@@ -8,6 +8,11 @@ This repo contains documentation pertaining to the entire \*Yoda related pandoc 
 
 
 **Pull requests welcome.**
+
+#### Issues
+
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/HaoZeke/superYodaDocs.svg?columns=all)](https://waffle.io/HaoZeke/superYodaDocs)
+
 
 #### Acknowledgments
 
